@@ -64,7 +64,7 @@ const MyApplications = () => {
                 </td>
                 <td>Purple</td>
                 <th>
-                  <button className="btn btn-ghost btn-xs">details</button>
+                  <button className="btn btn-ghost btn-xs">x</button>
                 </th>
               </tr>
             ))}
